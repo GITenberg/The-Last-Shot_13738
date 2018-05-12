@@ -1,0 +1,29 @@
+_repo: The-Last-Shot_13738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Frederick
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '3757'
+    url: http://www.gutenberg.org/2009/agents/3757
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Palmer_%28journalist%29
+description: ''
+gutenberg_issued: '2004-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Europe -- Fiction'
+- !lcc 'PS'
+title: The Last Shot
+url: http://www.gutenberg.org/ebooks/13738
